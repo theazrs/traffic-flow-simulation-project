@@ -1,6 +1,7 @@
 # Monte Carlo Simulation of Traffic Flow at an Intersection
 
-READ 
+READ THE Monte_Carlo_Simulation_Project_Report.odt FILE FOR A BETTER/INDEPTH EXPLANATION 
+
 This project simulates traffic flow through an intersection managed by traffic lights using the Monte Carlo method. By running thousands of simulations, this project captures the effect of various factors on traffic queues, helping model the unpredictable behavior of traffic and providing insights that can be used to improve traffic management systems.
 
 ## Table of Contents
