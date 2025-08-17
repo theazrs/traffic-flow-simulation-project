@@ -1,9 +1,10 @@
+# importing libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import random
 from matplotlib.animation import FuncAnimation
 
-
+# setting up variables
 green_light_duration = [30, 45]
 red_light_duration = 25
 yellow_light_duration = 5
